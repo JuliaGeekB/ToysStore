@@ -1,0 +1,5 @@
+[id=2, name=Cars, count= 300, weight= 30 ]
+[id=2, name=Cars, count= 300, weight= 30 ]
+[id=2, name=Cars, count= 300, weight= 30 ]
+[id=1, name=Lego, count= 200, weight= 20 ]
+[id=1, name=Lego, count= 200, weight= 20 ]
